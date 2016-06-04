@@ -1,6 +1,6 @@
 <?php
-  $invester_id = "87238447";
-  $authkey = "0JTocRUJblBNzoBBpukoDAhoNH8=";
+  $invester_id = "Account number or invester id of lending club";
+  $authkey = "Your secret key form lending club";
 
   /*** set false to receive only datas ***/
   define("DEBUG_LENDING_API", false);
