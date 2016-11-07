@@ -1,6 +1,6 @@
 <?php
   $invester_id = "Account number or invester id of lending club";
-  $authkey = "Your secret key form lending club";
+  $authkey = "Your secret key from lending club";
 
   /*** set false to receive only datas ***/
   define("DEBUG_LENDING_API", false);
